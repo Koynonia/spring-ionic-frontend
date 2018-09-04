@@ -1,0 +1,7 @@
+{
+  "name": "Udemy_SpringIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
